@@ -4,7 +4,7 @@
 
 Um projeto pessoal do aluno Rui Barbosa, do Instituto Superior de Engenharia do Porto, com o objetivo de facilitar a criação de programas que efetuem calculos matriciais.
 
-A linguagem de programação escolhida foi C++, mas, apesar da escolha, todos os métodos serão [documentados]() para que possa ser facilmente implementada noutras linguagens.
+A linguagem de programação escolhida foi C++, mas, apesar da escolha, todos os métodos serão [documentados](docs/DOC.md) para que possa ser facilmente implementada noutras linguagens.
 
 ## Objetivos
 
